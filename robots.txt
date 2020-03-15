@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiizaoquu.andrewcs.info/sitemap.xml
